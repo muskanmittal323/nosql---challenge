@@ -11,7 +11,7 @@ This project was commissioned by the editors of the food magazine, Eat Safe, Lov
 ### Getting Started
 
 - Using the `NoSQL_setup_starter.ipynb` notebook for the initial setup.
-- Importing the `establishments.json` file into MongoDB. Use the Terminal for this operation and name the database `uk_food` and the collection `establishments`. Record the command used in a markdown cell within the notebook.
+- Imported the `establishments.json` file into MongoDB. Use the Terminal for this operation and name the database `uk_food` and the collection `establishments`. Record the command used in a markdown cell within the notebook.
 
 
 ### Database Confirmation
